@@ -1,3 +1,5 @@
+- to run the porject you need to install express, cors and body-parser
+
 -What does this project do?
 
 an asynchronous web app that uses Web API and user data to dynamically update the UI.
